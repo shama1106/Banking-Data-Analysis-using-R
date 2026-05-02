@@ -96,5 +96,34 @@ For campaign respondents:
 
 ---
 
-## 📁 Project Structure
 
+## 📌 Key Insights
+
+- Median is more reliable than mean for skewed data  
+- House prices show right-skewed distribution  
+- Sampling method impacts analysis accuracy  
+- Statistical testing helps validate business assumptions  
+
+---
+
+## 🚀 Future Improvements
+
+- Add more visualizations (boxplots, scatter plots)  
+- Apply regression models  
+- Build dashboard for insights  
+
+---
+
+## ⭐ Final Note
+
+This project demonstrates:
+
+- 📊 Strong statistical understanding  
+- 🧠 Analytical thinking  
+- 📈 Data interpretation using R  
+
+---
+
+<p align="center">
+  💼 Open to roles: Data Analyst | Business Analyst
+</p>
